@@ -43,44 +43,45 @@
 >사용자는 관심 언론사, 관심 카테고리, 관심 키워드를 자신의 관심도에 맞게 설정할 수 있습니다.<BR>
 >음성 지원을 위한 보이스 타입도 선택 가능하며, 키워드는 단순 단어뿐만 아니라 문장 단위로도 등록할 수 있습니다.<BR>
 >(예: ‘비트코인 관련 전망’, ‘대통령 연설’ 등)
-<img src="" />
+<img src="https://github.com/user-attachments/assets/6f3340ea-013e-4c04-8591-ae88683ff251" width="250"/>
+<br>
+
+### 설정 수정 (Edit Setting)
+>이미 설정한 관심 언론사, 관심 카테고리, 관심 키워드를 자신의 관심도에 맞설정할 수 있습니다.<BR>
+>음성 지원을 위한 보이스 타입도 선택 가능하며, 키워드는 단순 단어뿐만 아니라 문장 단위로도 등록할 수 있습니다.<BR>
+>(예: ‘비트코인 관련 전망’, ‘대통령 연설’ 등)
+<img src="https://github.com/user-attachments/assets/b731f2b6-0a38-47c9-8cb5-477433ecc666" width="250"/>
 <br>
 
 ### 메인 페이지 (Main Page)
 >실시간 뉴스, 오늘의 뉴스, 키워드별 뉴스로 구성되어 있습니다.<BR>
 >실시간 뉴스와 키워드별 뉴스는 썸네일 형태로 제공되며, 오늘의 뉴스는 사용자가 설정한 관심 카테고리별로 분류되어 보여집니다.
 
-<img src=""/>
+<img src="https://github.com/user-attachments/assets/7e9bb3db-eb2a-4990-b5d4-4868a163d158" width="250"/>
 <br>
 
 ### 상세 페이지 (Detail Page)
 >원하는 기사를 선택하면 해당 기사의 제목, 이미지, 발행 시간 등을 확인할 수 있습니다. <BR>
 >요약된 기사 내용을 텍스트로 읽거나 음성으로 청취할 수 있으며, 챗봇 버튼을 통해 추가적인 대화도 가능합니다.
 
-<img src=""/>
+<img src="https://github.com/user-attachments/assets/a8fbdb74-1f92-458c-b7ab-bfa1e5749df5" width="250"/>
 <br>
 
 ### 챗봇 페이지 (Chatbot Page)
 >사용자가 읽고 있는 기사의 내용을 AI가 사전에 학습하여, 해당 기사에 대한 질문에 실시간으로 답변을 제공합니다.
 
-<img src=""/>
+<img src="https://github.com/user-attachments/assets/9d4313a2-618a-46ce-83bc-420fb087e88c" width="250"/>
 <br>
 
 ### 키워드 페이지 (Keyword Page)
 >사용자가 설정한 관심 언론사와 카테고리를 기반으로 등록한 관심 키워드와 가장 관련성 높은 뉴스 기사들을 비교·분석해 큐레이션하여 키워드 간 유사도 분석을 통해 맞춤형 기사를 제공합니다.
-<img src=""/>
+<img src="https://github.com/user-attachments/assets/b5e43c88-f750-4297-8534-512c7f4317f0" width="250"/>
 <br>
 
 ### 히스토리 페이지 (History Page)
 >사용자가 이전에 읽었던 기사들을 한눈에 확인할 수 있어, 뉴스 소비 이력을 쉽게 돌아볼 수 있습니다.
 
-<img src=""/>
-<br>
-
-### 즐겨찾기 페이지 (Bookmark  Page)
->관심 있는 기사를 즐겨찾기에 추가해두면, 언제든지 다시 찾아보고 읽을 수 있습니다.
-
-<img src=""/>
+<img src="https://github.com/user-attachments/assets/535c688a-d48f-44e2-93d5-dd59315ea0f6" width="250"/>
 <br>
 
 
